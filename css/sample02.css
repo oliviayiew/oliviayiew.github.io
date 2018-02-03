@@ -1,0 +1,49 @@
+#container {
+    width: 80%;
+    margin: 20px auto;
+    background: azure;
+}
+
+#div1 {
+    background: blue;
+    color: white;
+    text-align: center;
+    width: 99%;
+    height: 70px;
+}
+
+#div2 {
+    background: rgb(196, 255, 255);
+    color: black;
+    text-align: left;
+    width: 33%;
+    float: left;
+    height: 200px;
+    margin-top: 10px;
+    
+}
+
+#div3 {
+    background: silver;
+    text-align: left;
+    width: 33%;
+    float: left;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#div4 {
+    background: silver;
+    width: 33%;
+    float: left;
+    height: 200px;
+    margin-top: 10px;
+    
+}
+
+#div5 {
+    float: left;
+    background-color: rgb(55, 140, 252);
+    width: 99%;
+    margin-top: 10px;
+}

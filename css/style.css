@@ -1,0 +1,21 @@
+h1 {
+    background-color: rgb(48, 159, 187);
+    color: white;
+    width: 240px;
+}
+
+p {
+    color: black;
+    width: 150px;
+}
+.nice{
+    font-weight: bold;
+    color: blue;
+}
+
+.greentext{
+    color: rgb(41, 192, 159)
+}
+ol {
+    color: rgb(22, 167, 22)
+}
