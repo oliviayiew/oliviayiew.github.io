@@ -16,7 +16,7 @@
 
 .customfont {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
+    color: rgb(247, 243, 243);
 }
 
 .customfontblack {
@@ -30,7 +30,7 @@
 }
 
 .snapshotbox {
-    border: 1px black solid;
+    border: none;
     background: rgb(90, 199, 250); 
     height: 200px;
 }
