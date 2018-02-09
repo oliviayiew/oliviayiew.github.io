@@ -1,0 +1,37 @@
+.top {
+    display: block;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+    box-shadow: 5px 5px 5px grey;
+    background: white;
+}
+
+.away {
+    position: relative;
+    scroll-behavior: auto;
+    top: 5em;
+
+}
+
+.away img {
+    width: 2%;
+    opacity: 0.3;
+    transition-duration: 300ms;
+    transition-property: opacity, transform, box-shadow;
+    transition-timing-function: linear;
+    transform: rotate(0def);
+
+}
+
+img:hover {
+    opacity: 1.0;
+    transform: rotate(180deg);
+    box-shadow: 5px 5px 5px
+}
+
+.bigger {
+    font-size: 1.5em;
+
+}

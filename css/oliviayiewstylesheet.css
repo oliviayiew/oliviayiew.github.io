@@ -1,0 +1,36 @@
+.navbar-custom {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 140%;
+    margin-top: 5px; margin-bottom: 0px;
+    color: navy;
+    border: none;
+    text-transform: uppercase;
+    background:none;
+    width: 45%;
+    margin: 0 auto;
+}
+
+.topnav {
+    padding-top: 3%;
+}
+
+.customfont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.customfontblack {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+.fonttext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.snapshotbox {
+    border: 1px black solid;
+    background: rgb(90, 199, 250); 
+    height: 200px;
+}
