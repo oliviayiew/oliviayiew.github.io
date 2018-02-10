@@ -14,23 +14,30 @@
     padding-top: 3%;
 }
 
+.customfontheading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
 .customfont {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(247, 243, 243);
+    color: rgb(37, 175, 175);
 }
 
 .customfontblack {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: navy;
+    color: rgb(13, 75, 75);
 }
 
 .fonttext {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+    color: rgb(42, 66, 66);
 }
 
 .snapshotbox {
-    border: none;
-    background: rgb(90, 199, 250); 
+    border: none;   
     height: 200px;
+}
+
+.paneldesign {
+    box-shadow: 10% 10% 10% grey;
 }
